@@ -1,2 +1,7 @@
-# Project_Flutter
- 
+To get dependencies type:
+
+flutter pub get
+
+Cheers,
+
+Igor :)
